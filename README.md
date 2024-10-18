@@ -24,7 +24,7 @@ To run the built image:
 
 To open the application:
 
-Open the browser and enter the address : http://localhost/brat-v1.3_Crunchy_Frog/
+Open the browser and enter the address : http://localhost/brat-1.3p1/
 
 To stop all running containers: 
 ```
